@@ -12,6 +12,7 @@ Exported HTML on the right ➡️.
 ### Desktop Browser (NOT APP) ###
 ![](img/notion_compare.png)
 
+- Emoji size quite different.
 - Different Emojis (follows system's for web browser)
 - Cover has padding
 - Font is different. Still serif at least.
@@ -24,6 +25,7 @@ Exported HTML on the right ➡️.
 <img src="img/notion_mobilebrowser_compare.png" width="500"/>
 
 - **Does not have dark mode**
+- Emoji size very different.
 - Different Emojis (follows system's for web browser)
 - Cover has padding
 - Font is different. Still serif at least.
