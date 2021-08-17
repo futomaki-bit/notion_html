@@ -19,7 +19,7 @@ Exported HTML on the right ➡️.
 - Text margins different
 - Font sizes varied
 - Editing options (expected)
-- 
+
 ### Mobile ###
 <img src="img/notion_mobilebrowser_compare.png" width="500"/>
 
