@@ -31,3 +31,7 @@ Exported HTML on the right ➡️.
 - Text margins different
 - Font sizes varied
 - Editing options (expected)
+
+## Verdict ##
+If the cover could reach the borders of the browser's window, it would be awesome.\
+Looks great if the content is only text.
