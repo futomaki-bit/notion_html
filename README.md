@@ -9,7 +9,7 @@ Testing Notion export to HTML function with a page with simple text, cover and e
 Native on the left ⬅️,
 Exported HTML on the right ➡️.
 
-### Desktop ###
+### Desktop Browser (NOT APP) ###
 ![](img/notion_compare.png)
 
 - Different Emojis (follows system's for web browser)
@@ -20,7 +20,7 @@ Exported HTML on the right ➡️.
 - Font sizes varied
 - Editing options (expected)
 
-### Mobile ###
+### Mobile Browser (NOT APP) ###
 <img src="img/notion_mobilebrowser_compare.png" width="500"/>
 
 - **Does not have dark mode**
